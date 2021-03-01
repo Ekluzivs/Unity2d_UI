@@ -2,8 +2,8 @@
 1st 2D UI element
 ### Veicamo darbu saraksts
 
-- [ ] nodrošināt projekta versionēšanu
-- [ ] Ievietot teksta logu
+- [x] nodrošināt projekta versionēšanu
+- [x] Ievietot teksta logu
 - [ ] Ievietot attelus
 - [ ] Ievietot check box
 - [ ] nodrošināt radio pogas darbību
