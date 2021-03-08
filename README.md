@@ -4,11 +4,11 @@
 
 - [x] nodrošināt projekta versionēšanu
 - [x] Ievietot teksta logu
-- [ ] Ievietot attelus
-- [ ] Ievietot check box
-- [ ] nodrošināt radio pogas darbību
-- [ ] izveidot izkrītošā saraksta poga
-- [ ] nodrošināt attēla izmēra maiņu ar bīdjoslu
-- [ ] nodrošināt attēla pārvietošanu ar peles palīdzību
-- [ ] pievienot audio failus
+- [x] Ievietot attelus
+- [x] Ievietot check box
+- [x] nodrošināt radio pogas darbību
+- [x] izveidot izkrītošā saraksta poga
+- [x] nodrošināt attēla izmēra maiņu ar bīdjoslu
+- [x] nodrošināt attēla pārvietošanu ar peles palīdzību
+- [x] pievienot audio failus
 - [ ] 
